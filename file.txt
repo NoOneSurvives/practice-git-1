@@ -1,3 +1,4 @@
 My first line in project
 Paris is the capital of France
->>>>>>> parent of bc234e2... Index before and after
+Add new before Index
+Add new after Index
